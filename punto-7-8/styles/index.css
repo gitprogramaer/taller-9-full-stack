@@ -1,12 +1,12 @@
 .body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    background-color: #FCE4EC; /* Fondo rosa claro */
+    background-color: #FCE4EC;
 }
 
 .nav {
     text-align: center;
-    background-color: #FCE4EC; /* Fondo rosa claro */
+    background-color: #FCE4EC; 
     padding: 10px;
 }
 
@@ -23,9 +23,9 @@
 
 .a {
     text-decoration: none;
-    color: #fff; /* Letras en blanco */
+    color: #fff; 
     font-weight: bold;
-    padding: 8px 16px; /* Espaciado alrededor del texto */
-    border-radius: 5px; /* Esquinas redondeadas */
-    background-color: #E91E63; /* Fondo rosa oscuro */
+    padding: 8px 16px; 
+    border-radius: 5px; 
+    background-color: #E91E63; 
 }
