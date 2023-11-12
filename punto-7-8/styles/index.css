@@ -1,21 +1,31 @@
-body {
+.body {
     font-family: Arial, sans-serif;
     margin: 20px;
+    background-color: #FCE4EC; /* Fondo rosa claro */
 }
-nav {
+
+.nav {
     text-align: center;
+    background-color: #FCE4EC; /* Fondo rosa claro */
+    padding: 10px;
 }
-ul {
+
+.ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-li {
+
+.li {
     display: inline;
     margin-right: 20px;
 }
-a {
+
+.a {
     text-decoration: none;
-    color: white;
+    color: #fff; /* Letras en blanco */
     font-weight: bold;
+    padding: 8px 16px; /* Espaciado alrededor del texto */
+    border-radius: 5px; /* Esquinas redondeadas */
+    background-color: #E91E63; /* Fondo rosa oscuro */
 }
