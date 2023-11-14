@@ -1,0 +1,21 @@
+table {
+    width: 1150px;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: yellow;
+}
+
+th {
+    border: 1px dotted black;
+    padding: 8px;
+    text-align: left;
+    color: red;
+    text-align: center;
+}
+
+td {
+    border: 1px dotted black;
+    padding: 8px;
+    text-align: left;
+
+}

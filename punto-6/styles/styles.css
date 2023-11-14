@@ -1,0 +1,32 @@
+.link1 {
+    color: yellow;
+    text-decoration: underline;
+    transition: color 0.3s;
+    display: block; 
+    margin-bottom: 10px; 
+}
+
+.link1:hover {
+    color: purple;
+}
+
+.link2 {
+    color: purple;
+    text-decoration: underline;
+    transition: color 0.3s;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.link2:hover {
+    color: yellow;
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    margin-top: 20px;
+}
